@@ -1,0 +1,29 @@
+<style>
+      body {
+  margin-top: 40px;
+  background-color: silver;
+}
+#image {
+  alignment: center;
+  width: 500px;
+  max-width:100%;
+  height:auto;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 20px;
+ }
+#img-caption{
+  margin: 20px;
+  font-family: Lobster;
+  color: rgb(0, 0, 255);
+}
+#title {
+  font-family: Kanit;
+  color: rgb(0, 0, 255);
+}
+#about {
+  font-family: monospace;
+  font-size: 20px;
+}
+    </style>
